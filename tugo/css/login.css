@@ -1,0 +1,205 @@
+.logo {
+    width: 415px;
+    height: 71px;
+    padding-top: 30px;
+}
+.logo h1 {
+    display: inline-block;
+    margin: 5px 10px 0 0 ;
+    float: left;
+    font-weight: 500;
+}
+.logo h1 img {
+    float: left;
+}
+.logo h1 em {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    font-style: normal;
+    border-left: 1px solid #e7e7e7;
+    padding-left: 20px;
+}
+.bg {
+    background: url(../images/login.jpg) top center no-repeat;
+    height: 470px;
+}
+
+.login {
+    width: 350px;
+    float: right;
+    margin: 40px 100px 0 0;
+    border-radius: 5px;
+    background: #fff;
+}
+.login-t {
+    padding: 5px 25px 20px 25px;
+}
+.login-t h2 {
+    height: 24px;
+    line-height: 24px;
+    padding: 25px 0;
+    font-size: 24px;
+    color: #959494;
+    font-weight: 500;
+}
+.login-t h2 a {
+    float: right;
+    font-size: 16px;
+    color: #333;
+    text-decoration: underline;
+}
+.login-t a:hover {
+    color: #D70029;
+}
+.login-t .dnf {
+    padding-bottom: 15px;
+}
+.dnf .int {
+    width: 233px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 2px;
+    font-size: 14px;
+    padding: 10px 10px 10px 55px;
+    color: #3cc;
+    border: 1px solid #86f3f2;
+    outline: none;
+}
+.put1 {
+    background: url(../images/icon2.png) 20px 14px #cdf4fa no-repeat;
+}
+.put2 {
+    background: url(../images/icon2.png) 20px -60px #cdf4fa no-repeat;
+}
+
+.login-b {
+    padding: 10px 0;
+    width: 300px;
+    height: 41px;
+}
+.login-b .reg {
+    display: inline-block;
+    width: 139px;
+    height: 41px;
+    line-height: 41px;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    font-size: 16px;
+    border-radius: 3px;
+    float: right;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.login-b .reg1 {
+    display: inline-block;
+    width: 139px;
+    height: 41px;
+    line-height: 41px;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    font-size: 16px;
+    border-radius: 3px;
+    float: left;
+    background: #D70029;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+}
+.pro {
+    line-height: 30px;
+    border-top: 1px solid #e7e7e7;
+    padding: 15px 20px 25px 30px;
+}
+.pro p a {
+    float: right;
+    margin-right: 5px;
+    font-size: 14px;
+    color: #333;
+}
+.pro p a:hover {
+    color: #D70029;
+}
+.foot {
+    height: 135px;
+    padding: 20px 0;
+}
+.foot em {
+    padding-right: 30px;
+    float: left;
+}
+.foot a {
+    margin-right: 8px;
+    color: #333;
+}
+.foot a:hover {
+    color:#D70029; 
+}
+.foot em img {
+    height: 42px;
+}
+.foot div {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.foot div a {
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    float: left;
+}
+.foot div img {
+    float: left;
+}
+.foot div p {
+    height: 20px;
+    line-height: 20px;
+    margin: 0 0 0 5px;
+    float: left;
+    color: #939393;
+}
+.ggp {
+    position: absolute;
+    left: 43%;
+    top: 26%;
+    width: 260px;
+    height: 100px;
+    background: #fff;
+    border: 1px solid #939393;
+    display: none;
+}
+.ggp span {
+    display: inline-block;
+    width: 100%;
+    padding-left: 5px;
+    font-size: 16px;
+    font-weight: 900;
+}
+.ggp img {
+    float: left;
+    margin: 5px 15px 0 10px;
+}
+.ggp p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+    float: left;
+}
+.ggp .baox {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: #D70029;
+    position: absolute;
+    right: -15px;
+    top: -15px;
+}
+.ggp .baox h3 {
+    font-size: 18px;
+    color: #fff;
+}

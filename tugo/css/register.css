@@ -1,0 +1,155 @@
+.logo {
+    width: 415px;
+    height: 71px;
+    padding-top: 30px;
+}
+.logo h1 {
+    display: inline-block;
+    margin: 5px 10px 0 0 ;
+    float: left;
+    font-weight: 500;
+}
+.logo h1 img {
+    float: left;
+}
+.logo h1 em {
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    font-style: normal;
+    border-left: 1px solid #e7e7e7;
+    padding-left: 20px;
+}
+.rog {
+    background: url(../images/regbg.png) top center repeat-x;
+}
+.rog input {
+    outline: none;
+}
+.rog-1 {
+    padding: 80px 0;
+    border-top: 1px solid #d70029;
+    min-height: 309px;
+    height: auto!important;
+}
+.rog-2 {
+    width: 350px;
+    padding: 10px 50px 10px 200px;
+    float: left;
+    border-right: 1px solid #e5e5e5;
+}
+.rog-2 em {
+    display: inline-block;
+    height: 38px;
+    width: 78px;
+    line-height: 38px;
+    text-align: center;
+    float: left;
+    border: 1px solid #e0e0e0;
+    border-right: none;
+    font-size: 14px;
+    font-style: normal;
+}
+.rog-2 .inpt {
+    width: 189px;
+    height: 18px;
+    line-height: 18px;
+    float: left;
+    border: 1px solid #e0e0e0;
+    padding: 10px 10px 10px 35px;
+}
+.rog-2 font {
+    display: inline-block;
+    line-height: 40px;
+    padding-left: 20px;
+    color: #e62f34;
+}
+.rog-2 p {
+    height: 24px;
+    padding-top: 4px;
+    color: #c5c5c5;
+}
+
+.rog-3 .cok {
+    position: relative;
+    top: 2px;
+    margin-right: 5px;
+}
+.rog-2 .rog-3 font {
+    color: #000;
+}
+.rog-3 font a {
+    color: #3e7ee7;
+}
+.rog-4 {
+    padding-top: 30px;
+}
+.rog-4 #btnreg {
+    width: 315px;
+    height: 38px;
+    line-height: 38px;
+    font-size: 14px;
+    color: #fff;
+    background: #d70029;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+.rog_bot {
+    padding: 145px 0 0 50px;
+    float: left;
+}
+.rog_bot p {
+    font-size: 16px;
+    line-height: 36px;
+}
+.rog_bot h3 {
+    font-size: 24px;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+.rog_bot p a {
+    display: inline-block;
+    width: 150px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #fff;
+    background: #ff9c00;
+    font-size: 16px;
+}
+.foot {
+    height: 135px;
+    padding: 20px 0;
+    border-top: 1px solid #D70029;
+}
+.foot em {
+    padding-right: 30px;
+    float: left;
+}
+.foot a {
+    margin-right: 8px;
+    color: #333;
+}
+.foot a:hover {
+    color:#D70029; 
+}
+.foot em img {
+    height: 42px;
+}
+.foot div {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.foot div a {
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    float: left;
+}
+.foot div img {
+    float: left;
+}
